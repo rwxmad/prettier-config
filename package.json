@@ -1,0 +1,19 @@
+{
+  "name": "@rwxmad/prettier-config",
+  "version": "0.1.0",
+  "description": "Prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwxmad/prettier-config.git"
+  },
+  "author": "rwxmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwxmad/prettier-config/issues"
+  },
+  "homepage": "https://github.com/rwxmad/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "*"
+  }
+}
